@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://7vapes.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://7vapes.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://7vapes.ca/collections/all.atom"/>
+  <title>7VAPES</title>
+  <updated>2018-10-14T06:47:53-12:00</updated>
+  <author>
+    <name>7VAPES</name>
+  </author>
+  <entry>
+    <id>https://7vapes.ca/products/1397640855640</id>
+    <published>2018-10-14T06:47:53-12:00</published>
+    <updated>2018-10-14T06:47:53-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://7vapes.ca/products/sales-machine"/>
+    <title>Sales Machine</title>
+    <s:type></s:type>
+    <s:vendor>7VAPES</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>7VAPES<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://7vapes.ca/products/1397640855640</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>7VSM701</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://7vapes.ca/products/1389206732888</id>
+    <published>2018-09-29T05:28:58-12:00</published>
+    <updated>2018-09-29T05:28:58-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://7vapes.ca/products/salesmachine-vape-juice-wholesale"/>
+    <title>Sales Machine</title>
+    <s:type></s:type>
+    <s:vendor>7VAPES</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0015/7014/4344/products/SalesForce_a57cbc7a-3bd8-4ed3-88cf-d627e6b7e579.jpg?v=1547611687"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>7VAPES<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            600.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class=""><span class="" style="color: #bf9000;">Boost your sales ... hasten your profit ... All-In-One: Banner, Display, Tasting Platform, &amp; Storage.</span></div>
+<div class=""><span class="" style="color: #bf9000;">Just keep it on your countertop and it does all the magic.</span></div>
+<div class=""><span style="text-decoration: underline; color: #bf9000;"><span class="">You get:</span></span></div>
+<div class=""><span class="" style="color: #bf9000;">- 1 Display Unit with storage area for up to 50 bottles (60ML)</span></div>
+<div class=""><span class="" style="color: #bf9000;">- 1 MOD</span></div>
+<div class=""><span class="" style="color: #bf9000;">- 4 TANKS</span></div>
+<div class=""><span class="" style="color: #bf9000;">- 4 Tasting Bottles (60ML) One of each flavour... <em>not for sale</em>.</span></div>
+<div class=""><span class="" style="color: #bf9000;"> <span>- 20 Bottles (60ML). One of each flavour/NIC</span><span>.</span></span></div>
+<div class="">
+<span class=""><span color="#bf9000" style="color: #bf9000;">100% paid back by selling the 20 bottles, ends up having the display, MOD, and 4 </span></span><span color="#bf9000" style="color: #bf9000;"><span style="caret-color: #bf9000;">tanks, for free.</span></span>
+</div>
+<div class=""><span class="" style="color: #bf9000;"><em><i style="color: #999999;"><span style="color: #eeeeee;">.</span></i></em></span></div>
+<div class=""><span class="" style="color: #bf9000;"></span></div>
+<div class=""><span class="" style="color: #20124d;"></span></div>
+<div class=""><span style="color: #20124d;"><span class=""></span></span></div>
+<div class=""><strong><span style="color: #a64d79;"><span class="">One time offer</span></span></strong></div>
+<div class=""><span style="color: #a64d79;"><span class="">Get it for free with purchase of 200 bottles.</span></span></div>
+<div class=""></div>
+<div class=""></div>
+<div class=""><em></em></div>
+<div class=""><em></em></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://7vapes.ca/products/1389206732888</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">600.00</s:price>
+      <s:sku>7VSM760</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://7vapes.ca/products/1341917397080</id>
+    <published>2018-08-13T05:27:22-12:00</published>
+    <updated>2018-08-13T05:27:22-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://7vapes.ca/products/quattro-vape-juice-deal"/>
+    <title>Quattro</title>
+    <s:type></s:type>
+    <s:vendor>7VAPES</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0015/7014/4344/products/Quattro.jpg?v=1547610862"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>7VAPES<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            89.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><span style="color: #bf9000;">Don’t miss a thing… </span><br><span color="#bf9000" style="color: #bf9000;">Fruity Gum, Minty <span style="caret-color: #bf9000;">Fruits</span>, Peanut Butter and Caramel Tobacco.<br>Acquire the power of all the <strong>Fantastic4</strong><span color="#bf9000"> … Hero after hero.</span><br></span></span></p>
+<p><span style="color: #999999;">4 Bottles of 60ML.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://7vapes.ca/products/1341917397080</id>
+      <title>0.0mg</title>
+      <s:price currency="CAD">89.97</s:price>
+      <s:sku>7VQU000</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://7vapes.ca/products/1341917397080</id>
+      <title>1.5mg</title>
+      <s:price currency="CAD">89.97</s:price>
+      <s:sku>7VQU015</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://7vapes.ca/products/1341917397080</id>
+      <title>3.0mg</title>
+      <s:price currency="CAD">89.97</s:price>
+      <s:sku>7VQU030</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://7vapes.ca/products/1341917397080</id>
+      <title>6.0mg</title>
+      <s:price currency="CAD">89.97</s:price>
+      <s:sku>7VQU060</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://7vapes.ca/products/1341917397080</id>
+      <title>9.0mg</title>
+      <s:price currency="CAD">89.97</s:price>
+      <s:sku>7VQU090</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://7vapes.ca/products/1324318490712</id>
+    <published>2018-07-26T09:37:26-12:00</published>
+    <updated>2018-07-26T09:37:26-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://7vapes.ca/products/greenambiance-best-vape-flavour"/>
+    <title>Green Ambiance</title>
+    <s:type></s:type>
+    <s:vendor>7VAPES</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0015/7014/4344/products/Green-Ambiance.jpg?v=1547611282"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>7VAPES<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><span style="color: #bf9000;">Inhale the refreshing</span> <span style="color: #6aa84f;"><strong>Minty</strong></span> <span style="color: #bf9000;">aura, and breakthrough to a new <span style="color: #6aa84f;"><strong>Fruit</strong></span> filled atmosphere.</span></span></p>
+<p><span style="color: #999999;"> A Bottle of 60ML.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://7vapes.ca/products/1324318490712</id>
+      <title>0.0mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>7VGA000</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://7vapes.ca/products/1324318490712</id>
+      <title>1.5mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>7VGA015</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://7vapes.ca/products/1324318490712</id>
+      <title>3.0mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>7VGA030</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://7vapes.ca/products/1324318490712</id>
+      <title>6.0mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>7VGA060</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://7vapes.ca/products/1324318490712</id>
+      <title>9.0mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>7VGA090</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://7vapes.ca/products/1324317933656</id>
+    <published>2018-07-26T09:36:21-12:00</published>
+    <updated>2018-07-26T09:36:21-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://7vapes.ca/products/chewingcontrail-best-vape-flavour"/>
+    <title>Chewing Contrail</title>
+    <s:type></s:type>
+    <s:vendor>7VAPES</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0015/7014/4344/products/Chewing-Contrail.jpg?v=1547610929"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>7VAPES<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #bf9000;">A tropical vacation, a spring picnic, a <span style="color: #ff00ff;"><strong>Fruity</strong></span> colourful garden. </span><span style="color: #ff00ff;"><b>Gum</b></span><span style="color: #bf9000;">, that you can actually chew.</span></p>
+<p><span style="color: #999999;">A Bottle of 60ML.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://7vapes.ca/products/1324317933656</id>
+      <title>0.0mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>7VCC000</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://7vapes.ca/products/1324317933656</id>
+      <title>1.5mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>7VCC015</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://7vapes.ca/products/1324317933656</id>
+      <title>3.0mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>7VCC030</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://7vapes.ca/products/1324317933656</id>
+      <title>6.0mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>7VCC060</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://7vapes.ca/products/1324317933656</id>
+      <title>9.0mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>7VCC090</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://7vapes.ca/products/1322394157144</id>
+    <published>2018-07-25T10:07:17-12:00</published>
+    <updated>2018-07-25T10:07:17-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://7vapes.ca/products/smokingtuxedo-best-vape-flavour"/>
+    <title>Smoking Tuxedo</title>
+    <s:type></s:type>
+    <s:vendor>7VAPES</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0015/7014/4344/products/Smoking-Tuxedo.jpg?v=1547611800"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>7VAPES<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #bf9000;">Set back in our elegant lounge, have your</span> <span style="color: #ff0000;"><strong>Caramel</strong></span> <span style="color: #bf9000;">desert and indulge with the good old</span> <span style="color: #ff0000;"><strong>Tobacco</strong></span>. </p>
+<p><span style="color: #999999;"> A Bottle of 60ML.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://7vapes.ca/products/1322394157144</id>
+      <title>0.0mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>7VST000</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://7vapes.ca/products/1322394157144</id>
+      <title>1.5mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>7VST015</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://7vapes.ca/products/1322394157144</id>
+      <title>3.0mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>7VST030</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://7vapes.ca/products/1322394157144</id>
+      <title>6.0mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>7VST060</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://7vapes.ca/products/1322394157144</id>
+      <title>9.0mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>7VST090</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://7vapes.ca/products/1322389045336</id>
+    <published>2018-07-25T09:59:10-12:00</published>
+    <updated>2018-07-25T09:59:10-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://7vapes.ca/products/peanutbullet-best-vape-flavour"/>
+    <title>Peanut Bullet</title>
+    <s:type></s:type>
+    <s:vendor>7VAPES</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0015/7014/4344/products/Peanut-Bullet.jpg?v=1547611360"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>7VAPES<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><span style="color: #bf9000;">Give yourself over to this exquisite</span> <span style="color: #ff9900;"><strong>Berry</strong></span><span style="color: #bf9000;"> smoke. Slowly partake in all the</span> <strong><span style="color: #ff9900;">Peanut</span></strong> <span style="color: #bf9000;">Goodness. Keep the <strong><span style="color: #ff9900;">Butter</span></strong>, it's calorie-free :)</span></span></p>
+<p><span style="color: #999999;"> A Bottle of 60ML.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://7vapes.ca/products/1322389045336</id>
+      <title>0.0mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>7VPB000</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://7vapes.ca/products/1322389045336</id>
+      <title>1.5mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>7VPB015</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://7vapes.ca/products/1322389045336</id>
+      <title>3.0mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>7VPB030</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://7vapes.ca/products/1322389045336</id>
+      <title>6.0mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>7VPB060</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://7vapes.ca/products/1322389045336</id>
+      <title>9.0mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>7VPB090</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>
